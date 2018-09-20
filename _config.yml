@@ -1,9 +1,9 @@
 # Site settings
-title: Yzen Blog
+title: Yzen的博客
 SEOTitle: Yzen的博客 | Yzen Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-keybord.jpg
 email: zhaocosy@163.com
-description: "Every failure is leading towards success."
+description: "安静的敲代码."
 keyword: "Yzen, Yzen Blog, Yzen的博客, Yzen, 赵连勋, iOS, Apple, iPhone"
 url: "http://zhaolianxun.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
